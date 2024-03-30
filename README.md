@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **from the subjects in my degree course**
 
-- 👨‍💻 All of my projects are available at [my repos](https://github.com/CANCI0?tab=repositories))
+- 👨‍💻 All of my projects are available at [my repos](https://github.com/CANCI0?tab=repositories)
 
 - 💬 Ask me about **Java**
 
